@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Name: Shayna Conner
+ * Class/Assignment: MTH354 Final Project
+ * Algorithm: Dijkstra's algorithm
+ * Date: 11/27/2018
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using Dijkstra.Models;

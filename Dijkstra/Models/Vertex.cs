@@ -1,4 +1,11 @@
-﻿namespace Dijkstra.Models
+﻿/*
+ * Name: Shayna Conner
+ * Class/Assignment: MTH354 Final Project
+ * Algorithm: Dijkstra's algorithm
+ * Date: 11/27/2018
+ */
+
+namespace Dijkstra.Models
 {
     /*
      * Object to hold vertex properties

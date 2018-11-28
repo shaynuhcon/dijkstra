@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Name: Shayna Conner
+ * Class/Assignment: MTH354 Final Project
+ * Algorithm: Dijkstra's algorithm
+ * Date: 11/27/2018
+ */
+
+using System;
 
 namespace Dijkstra
 {
@@ -22,7 +29,7 @@ namespace Dijkstra
              * Logic was tested using problems 2b and 2c from homework five. 
              */
 
-            var dijkstra = new DijkstraAlgorithm();
+var dijkstra = new DijkstraAlgorithm();
 
             // Adjacency matrix here
             int[,] graph =
